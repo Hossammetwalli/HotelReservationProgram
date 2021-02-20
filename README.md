@@ -14,11 +14,11 @@ Java Persistence API (JPA) with entity manager to handle MySql connector with da
 User can sign up and get a new account and login,  book, update and delete reservation form (CRUD) features.
 
 <p align="center">
-  <img src="https://github.com/Hossammetwalli/HotelReservationProgram/blob/master/HotelReservationSystem/src/main/resources/static/images/hotelReservationsystem.JPG" title="hover text">
+  <img src="https://github.com/Hossammetwalli/HotelReservationProgram/blob/master/HotelReservationSystem/src/main/resources/static/images/hotelReservationsystem.JPG" title="hover text"  width="700">
   
-   <img src="https://github.com/Hossammetwalli/HotelReservationProgram/blob/master/HotelReservationSystem/src/main/resources/static/images/hotelReservationsystem1.JPG" title="hover text1">
+   <img src="https://github.com/Hossammetwalli/HotelReservationProgram/blob/master/HotelReservationSystem/src/main/resources/static/images/hotelReservationsystem1.JPG" title="hover text1" width="700">
    
-    <img src="https://github.com/Hossammetwalli/HotelReservationProgram/blob/master/HotelReservationSystem/src/main/resources/static/images/hotelReservationsystem2.JPG" title="hover text2">
+    <img src="https://github.com/Hossammetwalli/HotelReservationProgram/blob/master/HotelReservationSystem/src/main/resources/static/images/hotelReservationsystem2.JPG" title="hover text2" width="700">
  
 </p>
 
